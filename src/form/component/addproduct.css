@@ -1,0 +1,18 @@
+/* .template{
+display:table-row
+}
+FormLabel{
+   display: table-cell; 
+}
+TextField{
+    display: table-cell;
+}
+TextArea{
+    display: table-cell;
+}
+Box{
+    display: table;
+} */
+.upload{
+    margin-left: 65px;
+}
